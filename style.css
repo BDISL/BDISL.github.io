@@ -64,6 +64,7 @@ body {
 
 .section ul li {
     margin-bottom: 0px;
+    margin-left: 40px;
 }
 
 .section ul li a {
@@ -75,24 +76,21 @@ body {
     color: #666;
 }
 
-.footer {
-    background-color: #070066;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
 .member {
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
 }
+
 .member img {
     margin-right: 10px;
 }
+
 .member-name {
     font-size: larger;
     font-weight: bold;
 }
+
 #logo {
     width: 293px;
     height: 55px;
