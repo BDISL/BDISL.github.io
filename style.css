@@ -179,6 +179,12 @@ body {
     font-size: large;
 }
 
+.mail-fac 
+{
+    font-size: large;
+    text-align: center;
+}
+
 #logo {
     width: 293px;
     height: 55px;
