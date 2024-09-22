@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-    background-color: #070066;
+    background-color: #0e058d;
     color: white;
     padding: 20px;
 }
@@ -26,10 +26,11 @@ body {
 
 .nav {
     display: flex;
+    font-size: larger;
     font-weight: bold;
     justify-content: space-around;
     align-items: center;
-    background-color: #07006675;
+    background-color: #0e058d;
     padding: 10px;
 }
 
@@ -43,6 +44,7 @@ body {
 }
 
 .section {
+    font-size: large;
     padding: 20px;
 }
 
@@ -84,6 +86,7 @@ body {
 
 .member img {
     margin-right: 10px;
+    border-radius: 100px;
 }
 
 .member-name {
